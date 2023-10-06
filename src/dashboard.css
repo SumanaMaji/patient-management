@@ -1,0 +1,12 @@
+
+.link:hover{
+    background: lightskyblue;
+    color: #000;
+    transition: all 0.5s;
+}
+.icon, .link_text{
+    font-size: 18px;
+}
+.btn-flat:hover{
+    background-color: black;
+}
